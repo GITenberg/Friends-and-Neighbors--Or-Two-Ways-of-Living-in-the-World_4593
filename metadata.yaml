@@ -1,0 +1,44 @@
+_repo: Friends-and-Neighbors--Or-Two-Ways-of-Living-in-the-World_4593
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    - Herbert, Uncle
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'Friends and neighbours -- Good in all -- Human progress -- My washerwoman
+  -- Forgive and forget -- Owe no man anything -- Returning good for evil -- Putting
+  your hand in your neighbour''s pocket -- Kind words -- Neighbours'' quarrels --
+  Good we might do -- The town lot -- The sunbeam and the raindrop -- A plea for soft
+  words -- Mr. Query''s investigation -- Room in the world -- Words -- The thankless
+  office -- Love -- "Every little helps" -- Little things -- Careless words -- How
+  to be happy -- Charity: Its objects -- The vision of boats -- Regulation of the
+  temper -- Manly gentleness -- Silent influence -- Antidote for melancholy -- The
+  sorrows of a wealthy citizen -- "We''ve all our angel side" -- Blind James -- Dependence
+  -- Two rides with the doctor -- Keep in step -- Johnny Cole -- The thief and his
+  benefactor -- John and Margaret Greylston -- The world would be the better for it
+  -- Two sides to a story -- Little kindnesses -- Leaving off contention before it
+  be meddled with -- "All the day idle" -- the bushel of corn -- The account -- Contentment
+  better than wealth -- Rainbows everywhere.'
+title: Friends and Neighbors; Or, Two Ways of Living in the World
+url: http://www.gutenberg.org/ebooks/4593
